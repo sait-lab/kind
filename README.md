@@ -13,6 +13,9 @@ Create a new virtual machine with the following settings:
 
 The following demonstration is performed on Ubuntu Linux 24.04 LTS. If you are using RHEL, AlmaLinux, or Rocky Linux, modifications to the golang installation command is necessary.
 
+https://github.com/sait-lab/kind/assets/81775267/05a9cac8-a92a-4ddd-a9c6-96f493bab505
+
+
 ### Section A: Install kind
 
 1. Go is an open-source programming language supported by Google. Go is widely used in the DevOps and Cloud Native space.
