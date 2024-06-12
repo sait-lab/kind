@@ -13,8 +13,7 @@ Create a new virtual machine with the following settings:
 
 The following demonstration is performed on Ubuntu Linux 24.04 LTS. If you are using RHEL, AlmaLinux, or Rocky Linux, modifications to the golang installation command is necessary.
 
-https://github.com/sait-lab/kind/assets/81775267/05a9cac8-a92a-4ddd-a9c6-96f493bab505
-
+https://github.com/sait-lab/kind/assets/81775267/cca2d49d-6c72-45f5-90ae-704bef11e065
 
 ### Section A: Install kind
 
