@@ -9,7 +9,7 @@ Create a new virtual machine with the following settings:
 
 - 4 vCPUs
 - 8 GB RAM
-- One 20 GB HDD
+- One 24 GB HDD
 
 The following demonstration is performed on Ubuntu Linux 24.04 LTS. If you are using RHEL, AlmaLinux, or Rocky Linux, modifications to the golang installation command is necessary.
 
