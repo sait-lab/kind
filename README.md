@@ -36,7 +36,7 @@ https://github.com/sait-lab/kind/assets/81775267/cca2d49d-6c72-45f5-90ae-704bef1
 2. Install `kind` using `go`
    ```
    cd ~
-   go install sigs.k8s.io/kind@v0.23.0
+   go install sigs.k8s.io/kind@v0.29.0
    ```
 
    <img src="./README.assets/install-kind.png" alt="install-kind" style="zoom:50%;" /> 
